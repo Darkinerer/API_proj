@@ -2,10 +2,12 @@
 API for working with users personal and geolocation data.
 
 ## Installation
-    1.Enter folder: cd Folder path
+    1.Clone or download repository
+    
+    2.Enter folder: cd Folder path
 
-    2.Install dependencies: npm install
+    3.Install dependencies: npm install
 
-    3.Start application: node server.js
+    4.Start application: node server.js
 
-    4.Visit localhost:3000 in your browser
+    5.Visit localhost:3000 in your browser
